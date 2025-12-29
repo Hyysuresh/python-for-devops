@@ -1,4 +1,4 @@
-#!/home/ubuntu/python-for-devops/practice/day1/.venv/bin/python3
+#!/home/ubuntu/python-for-devops/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
